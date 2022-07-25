@@ -1,9 +1,9 @@
 "use strict";
 
 import "../node_modules/leaflet/dist/leaflet.js";
-import Workout from "./workout.js";
-import Running from "./running.js";
-import Cycling from "./cycling.js";
+import Workout from "./workouts/workout.js";
+import Running from "./workouts/running.js";
+import Cycling from "./workouts/cycling.js";
 
 // APPLICATION ARCHITECTURE
 const form = document.querySelector(".form");
