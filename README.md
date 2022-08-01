@@ -1,4 +1,3 @@
 # Mapty
 
-# Live: 
-https://minas-mapty.netlify.app
+# Live: https://minas-mapty.netlify.app
