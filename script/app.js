@@ -1,7 +1,6 @@
 "use strict";
 
 import "../node_modules/leaflet/dist/leaflet.js";
-import Workout from "./workouts/workout.js";
 import Running from "./workouts/running.js";
 import Cycling from "./workouts/cycling.js";
 
